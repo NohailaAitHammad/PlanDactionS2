@@ -30,4 +30,5 @@ $notification3->envoyer("notification envoyer avec success\n");
  * cette logique sans avoir à modifier tout ton programme. Si tu as
  * plusieurs façons d’exécuter une action, c’est ici que ce pattern
  * devient très utile. Plutôt que d'avoir un gros bloc conditionnel,
- * tu délègues le comportement à un objet spécifique.*/
+ * tu délègues le comportement à un objet spécifique.
+ */
